@@ -1,7 +1,3 @@
-!pip install streamlit -q
-!streamlit version
-
-%%writefile app.py
 # ─────────────────────────────────────────────────────────────────────────────
 # Breast Cancer Risk Indicator — Educational Prototype
 # Built during a Computer Society ML Workshop.
